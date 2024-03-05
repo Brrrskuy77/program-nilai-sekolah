@@ -1,0 +1,36 @@
+{
+  "name": "program-nilai-sekolah",
+  "version": "1.0.0",
+  "description": "Program ini diperuntukan untuk para guru di sekolah dan mempermudah untuk mengisi absensi siswa, pengisian nilai siswa dan raport siswa",
+  "main": "index.js",
+  "scripts": {
+    "test": "nilai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brrrskuy77/program-nilai-sekolah.git"
+  },
+  "keywords": [
+    "Program",
+    "Nilai",
+    "Sekolah",
+    "Program",
+    "Nilai",
+    "SDIT",
+    "Daarul",
+    "Fataa"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/program-nilai-sekolah/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/program-nilai-sekolah#readme",
+  "dependencies": {
+    "@types/node": "^20.11.24",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
